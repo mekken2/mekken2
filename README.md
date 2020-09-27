@@ -1,6 +1,6 @@
-### So,Things aren’t always #000000 and #FFFFFF! Let's see how much is that applying to us. 👋
+### So,Things aren’t always #000000 and #FFFFFF! We ourselves have to choose the best color for the beautiful Life. 👋
 
-I'm Priyanshu, a highschool student whose interest in programming sparked 3 years ago with Java and a little bit of Pen testing and hacking. And then it was like a never-ending adventurous book whose next page were always more interesting than the previous and I get experienced with Python,Java,JavaScript,HTML and CSS. I love Algorithms and Data Structures, designing and coding websites, and my Ultimate goal is AI.
+I'm Priyanshu, a highschool student whose interest in programming sparked 3 years ago with Java and a little bit of Pen testing and hacking. And then it was like a never-ending adventurous book... and I got experienced with Python,Java,JavaScript,HTML and CSS. I love Algorithms and Data Structures, designing and coding websites, and my Ultimate goal is AI.
 
 
 - 🔭 I’m currently working on an online ChatApp!
