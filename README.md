@@ -14,4 +14,4 @@ I'm Priyanshu, a highschool student whose interest in programming sparked 3 year
 
 ### Stats
 
-[![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=priyanshu-kumar-IN)](https://github.com/anuraghazra/github-readme-stats)
+[![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=princeluxgrey)](https://github.com/anuraghazra/github-readme-stats)
