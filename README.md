@@ -8,7 +8,7 @@ I'm Priyanshu, a highschool student whose interest in programming sparked 3 year
 - 👯 I’m looking to collaborate on Website frontend.
 - 🤔 I’m looking for help with Bot development.
 - 💬 Ask me about Python and Responsive web design.
-- 📫 How to reach me: DM me on Discord - Prince Lux Grey#8758
+- 📫 How to reach me: DM me on Discord - PrinceLuxGrey#8758
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: WWE is scripted.
 
