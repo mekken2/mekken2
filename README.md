@@ -6,8 +6,6 @@ I'm Priyanshu, a highschool student whose interest in programming sparked 3 year
 - 🔭 I’m currently working on a Chat application!
 - 🌱 I’m currently learning Python Sockets! 
 - 👯 I’m looking to collaborate on VCS, Networking and Bot dev.
-<!-- - 🤔 I’m looking for help with Web frontend.
-- 💬 Ask me about git and responsive web design. -->
 - 📫 How to reach me: Mail me at priyanshukumar9431@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: WWE is scripted.
@@ -15,3 +13,6 @@ I'm Priyanshu, a highschool student whose interest in programming sparked 3 year
 ### Stats
 
 [![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=princeluxgrey)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- - 🤔 I’m looking for help with Web frontend.
+- 💬 Ask me about git and responsive web design. -->
