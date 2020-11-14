@@ -6,7 +6,7 @@ I'm Priyanshu, a highschool student whose interest in programming sparked 3 year
 - 🔭 I’m currently working on a Chat application!
 - 🌱 I’m currently learning Python Sockets! 
 - 👯 I’m looking to collaborate on VCS, Networking and Bot dev.
-- 📫 How to reach me: Mail me at priyanshukumar9431@gmail.com
+- 📫 How to reach me: DM me at Discord Prince Lux Grey#2429
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: WWE is scripted.
 
