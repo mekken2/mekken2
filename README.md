@@ -1,6 +1,6 @@
 ### Hi there, I'm Priyanshu - aka [Prince Lux Grey][website]👋
 
-## I'm a Student, Chess hobbyist and Weeb!!
+## I'm a Student, Chess hobbyist and a Weeb!!
 
 - 🔭 I just started my University. 😀
 - 🌱 I’m currently learning XPlat mobile dev and ML 
