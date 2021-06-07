@@ -2,7 +2,7 @@
 
 ## I'm a Student, Chess hobbyist and a Weeb!!
 
-- 🔭 I just started my University. 😀
+- 🔭 Going to University this year. 😀
 - 🌱 I’m currently learning XPlat mobile dev and ML 
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2021 Goals: Build an own ML project and contribute more to Open Source ML projects. 
