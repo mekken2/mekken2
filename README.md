@@ -40,10 +40,9 @@
 <br />
 <br />
 
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeluxgrey&show_icons=true&theme=radical)
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekken2&show_icons=true&theme=radical)
 
 
-[website]: https://princeluxgrey.github.io/
 [twitch]: https://www.twitch.tv/princeluxgrey
 [twitter]: https://twitter.com/princeluxgrey
 [youtube]: https://www.youtube.com/channel/UCk7J8aR5LY0NhoTLiMOr03A
