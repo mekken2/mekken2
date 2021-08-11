@@ -1,4 +1,4 @@
-### Hi there, I'm Mekkn👋
+### Hi there, I'm Mekken👋
 
 ## I'm a Student, Chess hobbyist and a Weeb!!
 
