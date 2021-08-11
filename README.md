@@ -1,4 +1,4 @@
-### Hi there, I'm Priyanshu - aka [Prince Lux Grey][website]👋
+### Hi there, I'm Mekkn👋
 
 ## I'm a Student, Chess hobbyist and a Weeb!!
 
