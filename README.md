@@ -2,11 +2,11 @@
 
 ## I'm a Student, Chess hobbyist and a Weeb!!
 
-- 🔭 Going to University this year. 😀
-- 🌱 I’m currently learning XPlat mobile dev and ML 
+- 🔭 Freshman UnderGraduate Student, Information Technology at VIT, Vellore! 😀
+- 🌱 I’m currently learning Python Development and Matrix Laboratory. 
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2021 Goals: Build an own ML project and contribute more to Open Source ML projects. 
-- ⚡ Fun fact: WWE is scripted
+- 🥅 2021 Goals: Be fluent in Python and make profiles on Hackerrank and Leetcode. 
+- ⚡ Fun fact: Cartoon and Anime is different.
 
 ### Connect with me:
 
@@ -42,9 +42,9 @@
 
 ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekken2&show_icons=true&theme=radical)
 
-
+[website]: https://mekken2.github.io/
 [twitch]: https://www.twitch.tv/princeluxgrey
 [twitter]: https://twitter.com/princeluxgrey
 [youtube]: https://www.youtube.com/channel/UCk7J8aR5LY0NhoTLiMOr03A
 [instagram]: https://www.instagram.com/princeluxgrey/
-[linkedin]: https://www.linkedin.com/in/priyanshu-kumar-79b2aa1b3/
+[linkedin]: https://www.linkedin.com/in/princeluxgrey/
