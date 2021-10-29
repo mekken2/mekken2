@@ -2,7 +2,7 @@
 
 ## I'm a Student, Chess hobbyist and a Weeb!!
 
-- 🔭 Freshman UnderGraduate Student, Information Technology at VIT, Vellore! 😀
+- 🔭 Freshman Bachelor of Technology Student, Information Technology Branch at VIT, Vellore! 😀
 - 🌱 I’m currently learning Python Development and Matrix Laboratory. 
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2021 Goals: Be fluent in Python and make strong profile on Hackerrank and Leetcode. 
