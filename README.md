@@ -2,20 +2,20 @@
 
 ## I'm a Student, Chess hobbyist and a Weeb!!
 
-- 🔭 Freshman Bachelor of Technology Student, Information Technology Branch at VIT, Vellore! 😀
-- 🌱 I’m currently learning Python Development and Matrix Laboratory. 
+- 🔭 BTech Freshman, Information Technology Branch at VIT, Vellore! 😀
+- 🌱 I’m currently learning ML and Competitive Coding. 
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2021 Goals: Be fluent in Python and make strong profile on Hackerrank and Leetcode. 
-- ⚡ Fun fact: Cartoon and Anime is different.
+- 🥅 2022 Goals: Be fluent in Machine Learning and make strong profile on Codechef and Hackerrank. 
+- ⚡ Fun fact: Anime != Cartoon.
 
 ### Connect with me:
 
-[<img align="left" alt="princeluxgrey site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="princeluxgrey | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="princeluxgrey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="princeluxgrey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="princeluxgrey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="princeluxgrey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="princeluxgrey site" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="princeluxgrey | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="princeluxgrey | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="princeluxgrey | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="princeluxgrey | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="princeluxgrey | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 <br />
 
 ### Languages and Tools:
