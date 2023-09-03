@@ -1,12 +1,12 @@
 ### Hi there, I'm Mekken👋
 
-## I'm a Student, Chess hobbyist and a Weeb!!
+## I'm a Student, Chess hobbyist and fitness enthusiast!
 
-- 🔭 BTech Freshman, Information Technology Branch at VIT, Vellore! 😀
-- 🌱 I’m currently learning ML and Competitive Coding. 
+- 🔭 BTech Pre-Final Year, Information Technology Branch at VIT, Vellore! 😀
+- 🌱 I’m currently learning Data Science. 
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022 Goals: Be fluent in Machine Learning and make strong profile on Codechef and Hackerrank. 
-- ⚡ Fun fact: Anime != Cartoon.
+- 🥅 2023 Goals: Be fluent in Machine Learning and do 2 internships. 
+- ⚡ Fun fact: Chess is not boring.
 
 ### Connect with me:
 
