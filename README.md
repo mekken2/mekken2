@@ -47,7 +47,7 @@
 <br />
 <br />
 
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekken2&show_icons=true&theme=radical)
+# ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekken2&show_icons=true&theme=radical)
 
 [website]: https://mekken2.github.io/
 [twitch]: https://www.twitch.tv/princeluxgrey
