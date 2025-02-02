@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/priyanshukumarvit/" target="blank">
 Priyanshu Kumar</a></h1>
-<h3 align="center">Software Developer and ML/AI Engineer from India &#127470;&#127475</h3>
+<h3 align="center">ML & CC @ Codechef-VIT | Tech @ CSI-VIT | Tech @ VinnovateIT &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekken2&label=Profile%20views&color=0e75b6&style=flat" alt="mekken2" /> </p>
 
