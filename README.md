@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/priyanshukumarvit/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://mekken2.github.io/" target="blank">
 Priyanshu Kumar</a></h1>
 <h3 align="center">ML & CC @ Codechef-VIT | Tech @ CSI-VIT | Tech @ VinnovateIT &#127470;&#127475</h3>
 
@@ -16,7 +16,7 @@ Priyanshu Kumar</a></h1>
 
 - 🤝 I’m available for good a chat on Startups, ML/AI and Finance.
 
-<!-- - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a> -->
+
 
 - 📝 I regularly write articles on [https://mekken2.github.io/](https://mekken2.github.io/)
 
@@ -36,17 +36,16 @@ Priyanshu Kumar</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/mekken2">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<!-- <a style="margin-left: 10px;" target="_blank" href=""> -->
-				<!-- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a> -->
-	   <!-- <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a> -->
+				<!-- <img src=""></a> -->
+	   <!-- <a style="margin-left: 10px;" target="_blank" href="">
+					<img src=""></a> -->
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/mekken2">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/mekken_kr">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@mekken2">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<!-- <a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a> -->
+		
       </div>
 
 </p>
