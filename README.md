@@ -46,7 +46,7 @@ Priyanshu Kumar</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@mekken2">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		
-      </div>
+      
 
 </p>
 
