@@ -16,15 +16,15 @@ Priyanshu Kumar</a></h1>
 
 - 🤝 I’m available for good a chat on Startups, ML/AI and Finance.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+<!-- - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a> -->
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write articles on [https://mekken2.github.io/](https://mekken2.github.io/)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Data Science and DSA**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **priyanshukumarvit@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1YGoy45FyUAL9LVMlJJScxCLMnFLVOJlq/view?usp=sharing" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
