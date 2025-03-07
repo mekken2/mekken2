@@ -12,9 +12,9 @@ Priyanshu Kumar</a></h1>
 
 - 🔭 I’m currently a student at <a href="https://vit.ac.in/" target="blank">Vellore Institute of Technology, Vellore</a>
 
-- 🌱 I’m currently Working on <a href="https://vofyre.com/" target="blank">Vofyre.com</a>, Solo Startup.
+- 🌱 I’m currently Working on <a href="https://vofyre.com/" target="blank">Vofyre.com</a>.
 
-- 🤝 I’m available for good a chat on Startups, ML/AI and Finance.
+- 🤝 I’m available for good a chat on **Startups, ML/AI and Finance**.
 
 
 
